@@ -3,17 +3,17 @@
 1. [List](#)   
 2. [Linked List](#)
 3. [Stack](#)
-   
-3.1.  [Array](#)
-3.2. [Linkedlist](#)
-3.3. [Circular Queue](#)
-
+    * [Array](#)
+    * [Linkedlist](#)
+    * [Circular Queue](#)
 4. [Queue](#)
-
-   4.1.  [Array](#)
-   4.2. [Linkedlist](#)
-   4.3. [Circular Queue](#)
-6. [Tree](#)
+    * [Array](#)
+    * [Linkedlist](#)
+    * [Circular Queue](#)
+5. [Tree](#)
+    * [Binary Tree](#)
+    * [Binary Search Tree](#)
+    * [Adelson-Velsky and Landis](#)
 
 ## Why Are Data Structures Implemented in C?
 - C is often likened to machine language for its close-to-hardware nature.
