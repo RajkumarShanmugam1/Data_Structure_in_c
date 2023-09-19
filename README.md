@@ -1,11 +1,19 @@
 # Data Structures using C
 
-1. [List](#)
+1. [List](#)   
 2. [Linked List](#)
 3. [Stack](#)
+   
+3.1.  [Array](#)
+3.2. [Linkedlist](#)
+3.3. [Circular Queue](#)
+
 4. [Queue](#)
-5. [Circular Queue](#)
-6. ...
+
+   4.1.  [Array](#)
+   4.2. [Linkedlist](#)
+   4.3. [Circular Queue](#)
+6. [Tree](#)
 
 ## Why Are Data Structures Implemented in C?
 - C is often likened to machine language for its close-to-hardware nature.
